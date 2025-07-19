@@ -25,4 +25,4 @@ Expected function or array of functions, received type ${typeof e}.`),Y)}functio
 * vue v3.5.17
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
 * @license MIT
-**/function Fl(){ll()}process.env.NODE_ENV!=="production"&&Fl();const jl="0.5.1",Hl={class:"app"},Ll={class:"app-header"};Il(Li({__name:"main",setup(e){return(t,n)=>(Uc(),Wc("div",Hl,[Nt("header",Ll,[n[0]||(n[0]=Nt("p",null,"Auto Extension Updater Test",-1)),Nt("p",null,"Updated version "+Mo(ss(jl)),1),n[1]||(n[1]=Nt("p",null,"Fallback UI",-1))])]))}})).mount("#app")});
+**/function Fl(){ll()}process.env.NODE_ENV!=="production"&&Fl();const jl="0.5.2",Hl={class:"app"},Ll={class:"app-header"};Il(Li({__name:"main",setup(e){return(t,n)=>(Uc(),Wc("div",Hl,[Nt("header",Ll,[n[0]||(n[0]=Nt("p",null,"Auto Extension Updater Test",-1)),Nt("p",null,"Updated version "+Mo(ss(jl)),1),n[1]||(n[1]=Nt("p",null,"Fallback UI",-1))])]))}})).mount("#app")});
