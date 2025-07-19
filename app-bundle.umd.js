@@ -25,4 +25,4 @@ Expected function or array of functions, received type ${typeof e}.`),Y)}functio
 * vue v3.5.17
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
 * @license MIT
-**/function Al(){sl()}process.env.NODE_ENV!=="production"&&Al();const Il={class:"app"};Sl(Ri({__name:"main",setup(e){return(t,n)=>(Fc(),Lc("div",Il,n[0]||(n[0]=[Kt("header",{class:"app-header"},[Kt("p",null,"Auto Extension Updater Test"),Kt("p",null,"This is the updated version")],-1)])))}})).mount("#app")});
+**/function Al(){sl()}process.env.NODE_ENV!=="production"&&Al();const Il={class:"app"};Sl(Ri({__name:"main",setup(e){return(t,n)=>(Fc(),Lc("div",Il,n[0]||(n[0]=[Kt("header",{class:"app-header"},[Kt("p",null,"Auto Extension Updater Test"),Kt("p",null,"This is the updated version :)")],-1)])))}})).mount("#app")});
