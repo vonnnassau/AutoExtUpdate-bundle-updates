@@ -25,4 +25,4 @@ Expected function or array of functions, received type ${typeof e}.`),Y)}functio
 * vue v3.5.17
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
 * @license MIT
-**/function Fl(){ll()}process.env.NODE_ENV!=="production"&&Fl();const jl="0.7.8",Hl={class:"app"},Ll={class:"app-header"},Ul=Li({__name:"main",setup(e){return(t,n)=>(Uc(),Wc("div",Hl,[Kt("header",Ll,[n[0]||(n[0]=Kt("p",null,"Auto Extension Updater Panel",-1)),Kt("p",null,"Updated version "+Mo(ss(jl)),1)])]))}});if(console.log("📦 index-vue.ts Entry script running, mounting app..."),!window.__VUE_MOUNTED__){window.__VUE_MOUNTED__=!0;const e=Pl(Ul);e.mount("#app"),window.__app__=e}});
+**/function Fl(){ll()}process.env.NODE_ENV!=="production"&&Fl();const jl="0.7.9",Hl={class:"app"},Ll={class:"app-header"},Ul=Li({__name:"main",setup(e){return(t,n)=>(Uc(),Wc("div",Hl,[Kt("header",Ll,[n[0]||(n[0]=Kt("p",null,"Auto Extension Updater Panel",-1)),Kt("p",null,"Updated version "+Mo(ss(jl)),1)])]))}});if(console.log("📦 index-vue.ts Entry script running, mounting app..."),!window.__VUE_MOUNTED__){window.__VUE_MOUNTED__=!0;const e=Pl(Ul);e.mount("#app"),window.__app__=e}});
