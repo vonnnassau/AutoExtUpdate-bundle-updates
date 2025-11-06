@@ -1,4 +1,11 @@
 {
-  "version": "1.2.7",
-  "url": "https://raw.githubusercontent.com/vonnnassau/AutoExtUpdate-bundle-updates/main/update-package-1.2.7.zip"
+  "version": "1.3.0",
+  "url": "https://raw.githubusercontent.com/vonnnassau/AutoExtUpdate-bundle-updates/main/update-package-1.3.0.zip",
+
+  "sha256": "807faf394a7ccd835f78fe1f8bd4f6abac0bcb40824503cf5ad19359492a16ef",
+
+  "sig": {
+    "pubkey_id": "2025-main",
+    "content": "untrusted comment: signature from minisign secret key\nRUQvDdUnafrq+lDpxc2XAHABqdvSyfPAn7JwK66Py39xvq310JBHdWaUJKkeSosPMs+h9g5wCP87XSzUikXA3fbgrkD1y/YO0g4=\ntrusted comment: timestamp:1762390399\tfile:update-package-1.3.0.zip\thashed\nBrmBJmEvV18XJVKtlRTCHHl9rviMMgN/6ypHjcZ64cMemY1YBfmKXVQR93S8bMFUKYBc0s29Z+xup+UObdsWAg==\n"
+  }
 }
