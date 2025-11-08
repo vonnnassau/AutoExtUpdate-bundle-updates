@@ -1,9 +1,9 @@
 {
-  "version": "1.3.43",
-  "url": "https://raw.githubusercontent.com/vonnnassau/AutoExtUpdate-bundle-updates/main/update-package-1.3.43.zip",
-  "sha256": "9139e4af43ab3f7d69f7e64eb15c43d5b75d37e9d603daad68f317a6f053c89f",
+  "version": "1.3.44",
+  "url": "https://raw.githubusercontent.com/vonnnassau/AutoExtUpdate-bundle-updates/main/update-package-1.3.44.zip",
+  "sha256": "8a0cc2bbee49342b39f6c005d964c79e0ec55e353edf622c1ef78346146232fa",
   "sig": {
     "pubkey_id": "2025-main",
-    "content": "untrusted comment: signature from minisign secret key\nRWQvDdUnafrq+sfn70oI6c08qU0HyIBl1KQ0GZB5Wf0GXlaAUJHntMS4t7JwDKGJLCVyle7NVua8BoqEhx4VN7uW1Ety3rjZeAY=\ntrusted comment: timestamp:1762637653\tfile:update-package-1.3.43.zip\nv/QWHh9vp4J/AVFiDJ7oov885Rd/xCeliP2DU70pwPnjoi9sW+vcHVwW4ayZdKAen2N0bicR3XQKt1V/lUUUDw==\n"
+    "content": "untrusted comment: signature from minisign secret key\nRWQvDdUnafrq+oAuRHKmXPA6T7w7v46L+r5062sY/uNIr002tYi8UCu6Nb0OwSLhDBciGbhx3/bDv1QEdOOs7Jkp8tMXYgVsqAw=\ntrusted comment: timestamp:1762638991\tfile:update-package-1.3.44.zip\nmhtCq+pjNEyzFrmNZ7K/i7Fqg1Xp8fba2XACzdamTsfXoyfJW8HSH7BHMvJd4WUqert2xufKAkII+g8bpbzuAA==\n"
   }
 }
