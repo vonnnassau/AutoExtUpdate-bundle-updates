@@ -1,7 +1,7 @@
 {
-  "version": "1.3.68",
-  "url": "https://raw.githubusercontent.com/vonnnassau/AutoExtUpdate-bundle-updates/main/update-package-1.3.68.zip",
-  "sha256": "26441a0b00a9682c48b3501c432b1605abdff47c2d8606714581f414bab2f079",
+  "version": "1.3.69",
+  "url": "https://raw.githubusercontent.com/vonnnassau/AutoExtUpdate-bundle-updates/main/update-package-1.3.69.zip",
+  "sha256": "4aa87b46c8801a960ec4825900872b07953c6fd204de11e9599263539898cf07",
   "pubkey_id": "2025-main",
-  "sig": "AdjERJN3W2MnxfXtkLv30ku+6S9L3aGh5uded9Zb8TQfBw=="
+  "sig": "ciKLMxXW4e0JhY/6+xyTfGMF65EYWHCa29bJgZr+3jVGxs8L47n4Q2gLazX0Il1ppDj1o7J29hutzr6TtZVZCA=="
 }
