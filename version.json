@@ -1,7 +1,7 @@
 {
-  "version": "1.3.52",
-  "url": "https://raw.githubusercontent.com/vonnnassau/AutoExtUpdate-bundle-updates/main/update-package-1.3.52.zip",
-  "sha256": "d0ca08d4e912cd398c4cee57198ef7f16fe78dfeebd4e4a20ed6be8f41a19c16",
+  "version": "1.3.53",
+  "url": "https://raw.githubusercontent.com/vonnnassau/AutoExtUpdate-bundle-updates/main/update-package-1.3.53.zip",
+  "sha256": "92776fbbe944d5eef01afa861fbc9e40693577ee253ae5bb50b11d784785ed39",
   "pubkey_id": "2025-main",
-  "sig": "untrusted comment: signature from minisign secret key\nRWQ2l7SW90z8XXnpE8jwVaSLgkekg7CS79j+flykSZ/5SSNAbdWblOZgpauxjvtK25kIoWX7X99YOQF0zuCqIOd3CAVsYApMvwQ=\ntrusted comment: timestamp:1763130549\tfile:update-package-1.3.52.zip\nudFaDuwGcxQuRBAQRWNIBYRtYPyvPJonqsxlqZFhUsi0z+g7A3/J1knNrxSXZv1IP69dYG0cnyJLxLDVPadGAA==\n"
+  "sig": "RWQ2l7SW90z8XVzfPn+Pyu7tjCOLsghH2nHqaDxS6dkoolwtZMWCD2NjSOS94RYNjOA1MbSQQN8QsPxmyu2wTxFq1xMisCTxsww=\n"
 }
